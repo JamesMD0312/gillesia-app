@@ -1,0 +1,139 @@
+{
+  "site": {
+    "title": "McLaren Formula 1 Team | Official Fan Page",
+    "description": "McLaren Formula 1 Team - Innovation, speed and championship heritage in Formula 1.",
+    "keywords": [
+      "McLaren F1",
+      "Formula 1",
+      "Lando Norris",
+      "Oscar Piastri",
+      "Motorsport",
+      "Constructors Championship"
+    ]
+  },
+
+  "header": {
+    "logo": "Gillesia Seduco",
+    "navigation": [
+      "Home",
+      "About",
+      "Skills",
+      "Portfolio",
+      "Team",
+      "Contact"
+    ]
+  },
+
+  "hero": {
+    "title": "Racing at the Edge of Innovation",
+    "subtitle": "Engineering speed, precision and performance in Formula 1.",
+    "button": "Get Started",
+    "image": "assets/img/hero-img.jpg"
+  },
+
+  "clients": [
+    "Android",
+    "Mastercard",
+    "Google Chrome",
+    "Dell Technologies",
+    "OKX",
+    "Client 6"
+  ],
+
+  "about": {
+    "name": "Gillesia Seduco",
+    "birthdate": "December 4, 2003",
+    "education": "4th Year BSBA Marketing at the University of the Philippines Visayas",
+    "interests": [
+      "Strategy",
+      "Branding",
+      "Performance-driven industries",
+      "Wangan Midnight Maximum Tune 6RR"
+    ],
+    "description": "Gill balances discipline with spontaneity. She values structure, responsibility and integrity while also enjoying spontaneous trips, playing WMMT6RR, and watching vlogs. She is a proud McLaren Formula 1 supporter fascinated by strategy, data, and branding behind high performance teams."
+  },
+
+  "stats": {
+    "yearsDriven": 22,
+    "institutionsAttended": 3,
+    "learningHours": 100,
+    "goals": 1
+  },
+
+  "skills": [
+    {
+      "name": "Data Analysis & Research",
+      "description": "Ability to develop market-driven strategies and brand concepts"
+    },
+    {
+      "name": "Team Coordination",
+      "description": "Managing teams, organizing activities, and maintaining discipline under pressure"
+    },
+    {
+      "name": "Project Management and Execution",
+      "description": "Planning, organizing, and executing events and competition deliverables efficiently"
+    },
+    {
+      "name": "Critical Thinking and Problem Solving",
+      "description": "Analyzing complex situations and developing practical, results-driven solutions"
+    }
+  ],
+
+  "lifeHighlights": [
+    "assets/img/DSCF9739.JPEG",
+    "assets/img/IMG_9043.JPG",
+    "assets/img/IMG_9044.JPG"
+  ],
+
+  "carCollection": [
+    {
+      "name": "Porsche 911 Turbo S",
+      "brand": "Porsche",
+      "image": "assets/img/grage_20260305112600.JPG"
+    },
+    {
+      "name": "Porsche 911 Carrera",
+      "brand": "Porsche",
+      "image": "assets/img/grage_20260305112605.JPG"
+    },
+    {
+      "name": "Mitsubishi Evo Lancer IX",
+      "brand": "Mitsubishi",
+      "image": "assets/img/grage_20260305112609.JPG"
+    },
+    {
+      "name": "Nissan GTR-R50 Italdesign",
+      "brand": "Nissan",
+      "image": "assets/img/grage_20260305112613.JPG"
+    },
+    {
+      "name": "Nissan GTR-R32",
+      "brand": "Nissan",
+      "image": "assets/img/att.oaANG21y_Zfb2eJvj8HfIBhkFOwmMMbzN73rfcT0jgU.JPG"
+    }
+  ],
+
+  "team": [
+    {
+      "name": "Gillesia Seduco",
+      "role": "Marketing Student",
+      "image": "assets/img/IMG_6111.JPEG"
+    },
+    {
+      "name": "Gillesia Seduco",
+      "role": "Marketing Student",
+      "image": "assets/img/IMG_2869.JPEG"
+    }
+  ],
+
+  "contact": {
+    "location": "Pototan, Iloilo City",
+    "email": "info@example.com",
+    "phone": "+123 456 789"
+  },
+
+  "footer": {
+    "copyright": "Gillesia",
+    "credits": "BootstrapMade"
+  }
+}
